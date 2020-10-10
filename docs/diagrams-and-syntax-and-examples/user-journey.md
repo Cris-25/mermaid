@@ -10,7 +10,7 @@ Mermaid can render user journey diagrams:
 
 ```markdown
 journey
-    title My working day
+    title My working 
     section Go to work
       Make tea: 5: Me
       Go upstairs: 3: Me
